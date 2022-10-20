@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "AjmeraInfotech.Common/1.0.0": {
+        "runtime": {
+          "AjmeraInfotech.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AjmeraInfotech.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

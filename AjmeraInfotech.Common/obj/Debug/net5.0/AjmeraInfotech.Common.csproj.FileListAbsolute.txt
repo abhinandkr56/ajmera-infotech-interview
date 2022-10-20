@@ -1,0 +1,11 @@
+D:\Learning\AjmeraInfotechInterview\AjmeraInfotech.Common\bin\Debug\net5.0\AjmeraInfotech.Common.deps.json
+D:\Learning\AjmeraInfotechInterview\AjmeraInfotech.Common\bin\Debug\net5.0\AjmeraInfotech.Common.dll
+D:\Learning\AjmeraInfotechInterview\AjmeraInfotech.Common\bin\Debug\net5.0\ref\AjmeraInfotech.Common.dll
+D:\Learning\AjmeraInfotechInterview\AjmeraInfotech.Common\bin\Debug\net5.0\AjmeraInfotech.Common.pdb
+D:\Learning\AjmeraInfotechInterview\AjmeraInfotech.Common\obj\Debug\net5.0\AjmeraInfotech.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\AjmeraInfotechInterview\AjmeraInfotech.Common\obj\Debug\net5.0\AjmeraInfotech.Common.AssemblyInfoInputs.cache
+D:\Learning\AjmeraInfotechInterview\AjmeraInfotech.Common\obj\Debug\net5.0\AjmeraInfotech.Common.AssemblyInfo.cs
+D:\Learning\AjmeraInfotechInterview\AjmeraInfotech.Common\obj\Debug\net5.0\AjmeraInfotech.Common.csproj.CoreCompileInputs.cache
+D:\Learning\AjmeraInfotechInterview\AjmeraInfotech.Common\obj\Debug\net5.0\AjmeraInfotech.Common.dll
+D:\Learning\AjmeraInfotechInterview\AjmeraInfotech.Common\obj\Debug\net5.0\ref\AjmeraInfotech.Common.dll
+D:\Learning\AjmeraInfotechInterview\AjmeraInfotech.Common\obj\Debug\net5.0\AjmeraInfotech.Common.pdb

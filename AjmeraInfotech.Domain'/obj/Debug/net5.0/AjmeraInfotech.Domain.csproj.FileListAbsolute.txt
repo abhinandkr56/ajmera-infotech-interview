@@ -1,0 +1,15 @@
+D:\Learning\AjmeraInfotechInterview\AjmeraInfotech.Domain'\bin\Debug\net5.0\AjmeraInfotech.Domain.deps.json
+D:\Learning\AjmeraInfotechInterview\AjmeraInfotech.Domain'\bin\Debug\net5.0\AjmeraInfotech.Domain.dll
+D:\Learning\AjmeraInfotechInterview\AjmeraInfotech.Domain'\bin\Debug\net5.0\ref\AjmeraInfotech.Domain.dll
+D:\Learning\AjmeraInfotechInterview\AjmeraInfotech.Domain'\bin\Debug\net5.0\AjmeraInfotech.Domain.pdb
+D:\Learning\AjmeraInfotechInterview\AjmeraInfotech.Domain'\obj\Debug\net5.0\AjmeraInfotech.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\AjmeraInfotechInterview\AjmeraInfotech.Domain'\obj\Debug\net5.0\AjmeraInfotech.Domain.AssemblyInfoInputs.cache
+D:\Learning\AjmeraInfotechInterview\AjmeraInfotech.Domain'\obj\Debug\net5.0\AjmeraInfotech.Domain.AssemblyInfo.cs
+D:\Learning\AjmeraInfotechInterview\AjmeraInfotech.Domain'\obj\Debug\net5.0\AjmeraInfotech.Domain.csproj.CoreCompileInputs.cache
+D:\Learning\AjmeraInfotechInterview\AjmeraInfotech.Domain'\obj\Debug\net5.0\AjmeraInfotech.Domain.dll
+D:\Learning\AjmeraInfotechInterview\AjmeraInfotech.Domain'\obj\Debug\net5.0\ref\AjmeraInfotech.Domain.dll
+D:\Learning\AjmeraInfotechInterview\AjmeraInfotech.Domain'\obj\Debug\net5.0\AjmeraInfotech.Domain.pdb
+D:\Learning\AjmeraInfotechInterview\AjmeraInfotech.Domain'\obj\Debug\net5.0\AjmeraInfotech.Domain.csproj.AssemblyReference.cache
+D:\Learning\AjmeraInfotechInterview\AjmeraInfotech.Domain'\bin\Debug\net5.0\AjmeraInfotech.Common.dll
+D:\Learning\AjmeraInfotechInterview\AjmeraInfotech.Domain'\bin\Debug\net5.0\AjmeraInfotech.Common.pdb
+D:\Learning\AjmeraInfotechInterview\AjmeraInfotech.Domain'\obj\Debug\net5.0\AjmeraInfotech.Domain.csproj.CopyComplete
