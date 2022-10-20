@@ -4,3 +4,10 @@
 2022-10-20 09:52:44.2959 DEBUG Application Starting Up
 2022-10-20 09:52:51.9746 ERROR Exception Caught
 2022-10-20 10:08:53.1549 DEBUG Application Starting Up
+2022-10-20 10:37:54.7826 DEBUG Application Starting Up
+2022-10-20 11:16:10.0481 DEBUG Application Starting Up
+2022-10-20 11:16:10.7111 ERROR Stopped program because of exception
+2022-10-20 11:17:40.3809 DEBUG Application Starting Up
+2022-10-20 11:17:41.0048 ERROR Stopped program because of exception
+2022-10-20 11:20:44.0586 DEBUG Application Starting Up
+2022-10-20 11:22:13.7884 DEBUG Application Starting Up

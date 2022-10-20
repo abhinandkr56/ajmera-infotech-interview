@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace AjmeraInfotech.Domain.entity
 {
-    public class BookEntity: IBookEntity
+    public class BookEntity:IBookEntity
     {
         private IBookRepo _bookRepo;
         public BookEntity(IBookRepo bookRepo)

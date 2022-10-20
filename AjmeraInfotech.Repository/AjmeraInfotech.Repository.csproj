@@ -15,7 +15,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\AjmeraInfotech.Common\AjmeraInfotech.Common.csproj" />
-    <ProjectReference Include="..\AjmeraInfotech.Domain'\AjmeraInfotech.Domain.csproj" />
+    <ProjectReference Include="..\AjmeraInfotech.Domain\AjmeraInfotech.Domain.csproj" />
   </ItemGroup>
 
 </Project>

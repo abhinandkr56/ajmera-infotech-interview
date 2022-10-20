@@ -30,7 +30,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\AjmeraInfotech.Domain'\AjmeraInfotech.Domain.csproj" />
     <ProjectReference Include="..\AjmeraInfotech.Repository\AjmeraInfotech.Repository.csproj" />
   </ItemGroup>
 

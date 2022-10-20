@@ -5818,8 +5818,8 @@
     },
     "AjmeraInfotech.Domain/1.0.0": {
       "type": "project",
-      "path": "../AjmeraInfotech.Domain'/AjmeraInfotech.Domain.csproj",
-      "msbuildProject": "../AjmeraInfotech.Domain'/AjmeraInfotech.Domain.csproj"
+      "path": "../AjmeraInfotech.Domain/AjmeraInfotech.Domain.csproj",
+      "msbuildProject": "../AjmeraInfotech.Domain/AjmeraInfotech.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -5866,8 +5866,8 @@
             "D:\\Learning\\AjmeraInfotechInterview\\AjmeraInfotech.Common\\AjmeraInfotech.Common.csproj": {
               "projectPath": "D:\\Learning\\AjmeraInfotechInterview\\AjmeraInfotech.Common\\AjmeraInfotech.Common.csproj"
             },
-            "D:\\Learning\\AjmeraInfotechInterview\\AjmeraInfotech.Domain'\\AjmeraInfotech.Domain.csproj": {
-              "projectPath": "D:\\Learning\\AjmeraInfotechInterview\\AjmeraInfotech.Domain'\\AjmeraInfotech.Domain.csproj"
+            "D:\\Learning\\AjmeraInfotechInterview\\AjmeraInfotech.Domain\\AjmeraInfotech.Domain.csproj": {
+              "projectPath": "D:\\Learning\\AjmeraInfotechInterview\\AjmeraInfotech.Domain\\AjmeraInfotech.Domain.csproj"
             }
           }
         }

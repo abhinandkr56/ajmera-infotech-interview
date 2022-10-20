@@ -33,7 +33,6 @@
     ".NETCoreApp,Version=v5.0": {
       "AjmeraInfotechInterview/1.0.0": {
         "dependencies": {
-          "AjmeraInfotech.Domain": "1.0.0",
           "AjmeraInfotech.Repository": "1.0.0",
           "AutoMapper": "12.0.0",
           "AutoMapper.Extensions.Microsoft.DependencyInjection": "12.0.0",

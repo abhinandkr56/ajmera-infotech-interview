@@ -1,0 +1,292 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Learning\\AjmeraInfotechInterview\\AjmeraInfotechInterview.Domain.Test\\AjmeraInfotechInterview.Domain.Test.csproj": {}
+  },
+  "projects": {
+    "D:\\Learning\\AjmeraInfotechInterview\\AjmeraInfotech.Common\\AjmeraInfotech.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Learning\\AjmeraInfotechInterview\\AjmeraInfotech.Common\\AjmeraInfotech.Common.csproj",
+        "projectName": "AjmeraInfotech.Common",
+        "projectPath": "D:\\Learning\\AjmeraInfotechInterview\\AjmeraInfotech.Common\\AjmeraInfotech.Common.csproj",
+        "packagesPath": "C:\\Users\\abhinandhu.kr\\.nuget\\packages\\",
+        "outputPath": "D:\\Learning\\AjmeraInfotechInterview\\AjmeraInfotech.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\abhinandhu.kr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.413\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Learning\\AjmeraInfotechInterview\\AjmeraInfotech.Domain\\AjmeraInfotech.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Learning\\AjmeraInfotechInterview\\AjmeraInfotech.Domain\\AjmeraInfotech.Domain.csproj",
+        "projectName": "AjmeraInfotech.Domain",
+        "projectPath": "D:\\Learning\\AjmeraInfotechInterview\\AjmeraInfotech.Domain\\AjmeraInfotech.Domain.csproj",
+        "packagesPath": "C:\\Users\\abhinandhu.kr\\.nuget\\packages\\",
+        "outputPath": "D:\\Learning\\AjmeraInfotechInterview\\AjmeraInfotech.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\abhinandhu.kr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Learning\\AjmeraInfotechInterview\\AjmeraInfotech.Common\\AjmeraInfotech.Common.csproj": {
+                "projectPath": "D:\\Learning\\AjmeraInfotechInterview\\AjmeraInfotech.Common\\AjmeraInfotech.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.413\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Learning\\AjmeraInfotechInterview\\AjmeraInfotech.Repository\\AjmeraInfotech.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Learning\\AjmeraInfotechInterview\\AjmeraInfotech.Repository\\AjmeraInfotech.Repository.csproj",
+        "projectName": "AjmeraInfotech.Repository",
+        "projectPath": "D:\\Learning\\AjmeraInfotechInterview\\AjmeraInfotech.Repository\\AjmeraInfotech.Repository.csproj",
+        "packagesPath": "C:\\Users\\abhinandhu.kr\\.nuget\\packages\\",
+        "outputPath": "D:\\Learning\\AjmeraInfotechInterview\\AjmeraInfotech.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\abhinandhu.kr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Learning\\AjmeraInfotechInterview\\AjmeraInfotech.Common\\AjmeraInfotech.Common.csproj": {
+                "projectPath": "D:\\Learning\\AjmeraInfotechInterview\\AjmeraInfotech.Common\\AjmeraInfotech.Common.csproj"
+              },
+              "D:\\Learning\\AjmeraInfotechInterview\\AjmeraInfotech.Domain\\AjmeraInfotech.Domain.csproj": {
+                "projectPath": "D:\\Learning\\AjmeraInfotechInterview\\AjmeraInfotech.Domain\\AjmeraInfotech.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.17, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.413\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Learning\\AjmeraInfotechInterview\\AjmeraInfotechInterview.Domain.Test\\AjmeraInfotechInterview.Domain.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Learning\\AjmeraInfotechInterview\\AjmeraInfotechInterview.Domain.Test\\AjmeraInfotechInterview.Domain.Test.csproj",
+        "projectName": "AjmeraInfotechInterview.Domain.Test",
+        "projectPath": "D:\\Learning\\AjmeraInfotechInterview\\AjmeraInfotechInterview.Domain.Test\\AjmeraInfotechInterview.Domain.Test.csproj",
+        "packagesPath": "C:\\Users\\abhinandhu.kr\\.nuget\\packages\\",
+        "outputPath": "D:\\Learning\\AjmeraInfotechInterview\\AjmeraInfotechInterview.Domain.Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\abhinandhu.kr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Learning\\AjmeraInfotechInterview\\AjmeraInfotech.Domain\\AjmeraInfotech.Domain.csproj": {
+                "projectPath": "D:\\Learning\\AjmeraInfotechInterview\\AjmeraInfotech.Domain\\AjmeraInfotech.Domain.csproj"
+              },
+              "D:\\Learning\\AjmeraInfotechInterview\\AjmeraInfotech.Repository\\AjmeraInfotech.Repository.csproj": {
+                "projectPath": "D:\\Learning\\AjmeraInfotechInterview\\AjmeraInfotech.Repository\\AjmeraInfotech.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.10, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.3.2, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.18.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.413\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

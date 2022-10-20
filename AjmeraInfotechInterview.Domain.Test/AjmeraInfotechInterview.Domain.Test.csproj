@@ -1,0 +1,31 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+<PropertyGroup>
+		<IsTestProject>true</IsTestProject>
+  </PropertyGroup>
+<PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+  <PlatformTarget>x64</PlatformTarget>
+</PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.3.2" />
+    <PackageReference Include="Moq" Version="4.18.2" />
+    <PackageReference Include="MSTest.TestAdapter" Version="2.1.1" />
+    <PackageReference Include="MSTest.TestFramework" Version="2.2.10" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AjmeraInfotech.Domain\AjmeraInfotech.Domain.csproj" />
+    <ProjectReference Include="..\AjmeraInfotech.Repository\AjmeraInfotech.Repository.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="AjmeraInfotech.Common">
+      <HintPath>..\AjmeraInfotech.Common\bin\Debug\net5.0\AjmeraInfotech.Common.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

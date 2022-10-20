@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace AjmeraInfotech.Domain_
+namespace AjmeraInfotech.Domain
 {
     public class Class1
     {
